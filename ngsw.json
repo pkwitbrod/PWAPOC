@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1555999112082,
+  "timestamp": 1555999813596,
   "index": "https://pkwitbrod.github.io/PWAPOC/index.html",
   "assetGroups": [
     {
@@ -8,13 +8,8 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://pkwitbrod.github.io/PWAPOC/es2015-polyfills.c5dd28b362270c767b34.js",
         "https://pkwitbrod.github.io/PWAPOC/favicon.ico",
-        "https://pkwitbrod.github.io/PWAPOC/index.html",
-        "https://pkwitbrod.github.io/PWAPOC/main.0e489175d9e995933b10.js",
-        "https://pkwitbrod.github.io/PWAPOC/polyfills.063fff86594c2a6c4f01.js",
-        "https://pkwitbrod.github.io/PWAPOC/runtime.26209474bfa8dc87a77c.js",
-        "https://pkwitbrod.github.io/PWAPOC/styles.a4b04417597bfcd885a9.css"
+        "https://pkwitbrod.github.io/PWAPOC/index.html"
       ],
       "patterns": []
     },
@@ -45,13 +40,8 @@
     "https://pkwitbrod.github.io/PWAPOC/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://pkwitbrod.github.io/PWAPOC/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://pkwitbrod.github.io/PWAPOC/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://pkwitbrod.github.io/PWAPOC/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "https://pkwitbrod.github.io/PWAPOC/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://pkwitbrod.github.io/PWAPOC/index.html": "ca5b2cd80a344f29d4ef7b1a17190965f359e7fe",
-    "https://pkwitbrod.github.io/PWAPOC/main.0e489175d9e995933b10.js": "157f9e41cdb2cce4689149fe64699add774ce2db",
-    "https://pkwitbrod.github.io/PWAPOC/polyfills.063fff86594c2a6c4f01.js": "d5a6223bf41c52b701479ca14515db34e7973914",
-    "https://pkwitbrod.github.io/PWAPOC/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://pkwitbrod.github.io/PWAPOC/styles.a4b04417597bfcd885a9.css": "303aabac2c6dfde849fbdd836a8078fce276cbe5"
+    "https://pkwitbrod.github.io/PWAPOC/index.html": "ca5b2cd80a344f29d4ef7b1a17190965f359e7fe"
   },
   "navigationUrls": [
     {
